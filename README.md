@@ -1,4 +1,4 @@
-# STEEM Block Explorer (With Golos Support)
+# EBC (EBCoin) Block Explorer (With Golos Support)
 
 The STEEM Block Explorer provides a front-end where users can search for transactions on the STEEM blockchain.
 
